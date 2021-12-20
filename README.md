@@ -1,4 +1,4 @@
-# Currency COnverter
+# Currency Converter
 
 Hey, my name is Clarence. 
 This is my first React project, I'm proud of how it came out so I'm sharing for the world to see😉
